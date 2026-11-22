@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Ajay Madheshiya, an Infrastructure Engineer at Cognizant with 3+ years of experience in enterprise IT operations, infrastructure monitoring, incident management, and access administration.
+I'm Ajay Madhessiya, an Infrastructure Engineer at Cognizant with 3+ years of experience in enterprise IT operations, infrastructure monitoring, incident management, and access administration.
 
 🔐 Passionate about cloud security and identity protection.
 
